@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398872951874",
+    "project_id": "catataninfakdansedekah-9ab0c",
+    "storage_bucket": "catataninfakdansedekah-9ab0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398872951874:android:737d09d56a0588bf8ac1db",
+        "android_client_info": {
+          "package_name": "com.example.catatan_keuangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXT_xCHD5JJru5Nt3BVONO-cwueTWgrBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
